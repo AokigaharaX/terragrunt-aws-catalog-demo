@@ -1,0 +1,16 @@
+= terragrunt-aws-catalog-demo
+
+== Description
+
+This repository contains demo of a collection of Terragrunt units for deploying AWS resources using Terragrunt. 
+The unit in this demo will be used in another demo repository where it will be integrated into a larger/environment-specific infrastructure setup.
+Infrastructure demo repository: https://github.com/AokigaharaX/terragrunt-aws-infrastructure-demo
+
+== Purpose
+The primary focuses are:
+
+- Creating modular and reusable infrastructure as code (IaC) setup for various AWS services.
+- Streamlining the deployment process and reducing duplication across environments.
+
+== Reference
+See the https://terragrunt.gruntwork.io/docs/[Terragrunt documentation] for more information on how to use Terragrunt.
